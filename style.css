@@ -1,0 +1,35 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Helvetica Neue, Arial;
+    font-size: 18px;
+}
+
+header {
+    color: #00960b;
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+
+
+footer {
+    color: #ff960b;
+    font-size: 15px;
+    margin-bottom: 10px;
+}
+
+nav {
+    color: #99000b;
+    font-size: 15px;    
+    text-align: justify;
+    margin-bottom: 20px;
+}
+
+canvas {
+    text-align: justify;
+    margin-bottom: 20px;
+}
